@@ -38,6 +38,7 @@ $ cat about-me.sh
 * My work environment: **Linux (Debian/CachyOS), Hyprland (Wayland) + Waybar + Wofi + SDDM, Zsh(Powerlevel10k) + Kitty.**
 * You can ask me about: **Linux installation, shell scripting, software-freedom philosophy, Linear Regression, and The Office**
 </samp>
+
 ---
 
 
@@ -57,4 +58,4 @@ echo "YWxlamFuZHJvLnJvai50ekBnbWFpbC5jb20K" | base64 -d
 or if you prefer, you can reach me through my social media accounts:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ae.raar/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aee.rar/)
