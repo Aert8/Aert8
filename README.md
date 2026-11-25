@@ -27,7 +27,7 @@ Alejandro Rojas
 
 
 ```bash
-$ cat about-me.sh
+$ cat /home/ae/about-me.txt
 ```
 
 <samp>
